@@ -1,1 +1,1 @@
-print("Hello Toga")
+console.log("Hello Toga");
